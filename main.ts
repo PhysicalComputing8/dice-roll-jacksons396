@@ -1,3 +1,6 @@
+// okay, this is a very dark game. Quite disturbing.
+// 
+// I wonder if you could change it in a way that people could solve a puzzle that would yield a numeric answer and input that answer somehow.
 input.onGesture(Gesture.Shake, function () {
     // A variable is a place where your program can store a value. We need a place to store the result of the roll, so I created a variable called roll.
     //  I have the program generate a random number between 1 and 6, and I assign that value to the roll variable
